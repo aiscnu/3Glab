@@ -1,4 +1,13 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub and 3GLab
+
+## :3GLab introduction
+3GLab is an agile lab team that can stimulate every member`s potential.Our epic is to creat an information system for equipment management, laboratory appointment, and computing power resource management.Any AI technics are warmly welcomed to our project!
+• To think independently
+• To act effectively
+• To grow up fast
+• To achieve goals constantly
+![image](https://user-images.githubusercontent.com/124329207/216508912-755c3853-f0b7-47ea-85de-97055178d502.png)
+
 
 ## 🤓 Course overview and learning outcomes 
 
