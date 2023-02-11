@@ -29,7 +29,7 @@ public class Equipment {
 	@Column
 	private Integer status;
 	@Column
-	private Date creatdate;
+	private Date createdate;
 	@Column
 	private Date invaliddate;
 	@Column
@@ -63,12 +63,12 @@ public class Equipment {
 		this.status = status;
 	}
 
-	public Date getCreatdate() {
-		return creatdate;
+	public Date getCreatedate() {
+		return createdate;
 	}
 
-	public void setCreatdate(Date creatdate) {
-		this.creatdate = creatdate;
+	public void setCreatedate(Date createdate) {
+		this.createdate = createdate;
 	}
 
 	public Date getInvaliddate() {
